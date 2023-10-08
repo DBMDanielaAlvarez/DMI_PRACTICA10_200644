@@ -34,11 +34,12 @@
 ## Salida
 <p align="justify">
   Tomando de referencia, las imagenes de la práctica 9, se añade al apartado de detalles de la pelicula, el género o géneros a los cuales pertenece la pelicula, una calificación asignada y el año de su lanzamiento. Asi como a los 2 ultimos puntos se les agrega un icono referente, ya sea para la fecha (año de lanzamiento de la pelicula) o para saber la calificación de la misma.
-  En la segunda imagen, tenemos marcado cada elemento agregado.
-  En primer lugar, el o los géneros a los cuales pertenece la película.
-  En segundo lugar, tenemos marcado el como se encuentra la calificación de cada película.
+  - En la segunda imagen, tenemos marcado cada elemento agregado.
+  - En primer lugar, el o los géneros a los cuales pertenece la película.
+  - En segundo lugar, tenemos marcado el como se encuentra la calificación de cada película.
   Y en trecer punto, se marca el como aparaece el año de lanzamiento de la película.
 </p>
+
 <p align="center">
   <img src="https://github.com/Daniela06112002/DMI_PRACTICA10_200644/blob/main/screenshots/Captura1.png" width="30%"/>
   <img src="https://github.com/Daniela06112002/DMI_PRACTICA10_200644/blob/main/screenshots/Captura2.png" width="30%"/>
