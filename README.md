@@ -37,7 +37,7 @@
   - En la segunda imagen, tenemos marcado cada elemento agregado.
   - En primer lugar, el o los géneros a los cuales pertenece la película.
   - En segundo lugar, tenemos marcado el como se encuentra la calificación de cada película.
-  Y en trecer punto, se marca el como aparaece el año de lanzamiento de la película.
+  - Y en trecer punto, se marca el como aparaece el año de lanzamiento de la película.
 </p>
 
 <p align="center">
